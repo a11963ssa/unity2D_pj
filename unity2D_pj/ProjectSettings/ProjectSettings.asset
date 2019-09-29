@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: "TEXT\u5BC6\u5BA4"
   productName: unity2D_pj
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
